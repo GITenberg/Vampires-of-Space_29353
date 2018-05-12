@@ -1,0 +1,33 @@
+_repo: Vampires-of-Space_29353
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29353-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Wright, Sewell Peaslee
+    birthdate: 1897
+    deathdate: 1970
+    gutenberg_agent_id: '9555'
+    url: http://www.gutenberg.org/2009/agents/9555
+description: Based on its title, this tale might sound like an absurd bit of space-opera
+  fluff, but it's actually a deeply engaging story packed with interesting theories
+  and ideas. The "vampires" in question aren't literal bloodsuckers, but rather are
+  mysterious beings who subsist on the life force of others. It's a fascinating and
+  thought-provoking tale that will please connoisseurs of classic science fiction.
+gutenberg_bookshelf:
+- Astounding Stories
+- Science Fiction
+gutenberg_issued: '2009-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29353'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Vampires of Space
+url: http://www.gutenberg.org/ebooks/29353
